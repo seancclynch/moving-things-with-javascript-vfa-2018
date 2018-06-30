@@ -20,7 +20,7 @@ _Programming means that you can create such a world for other people._ Sure, it'
 Open up `index.html` in your favorite browser (we'll be using Chrome). Open the console, and let's get a hold of what we're calling the "dodger":
 
 ``` javascript
-var dodger = document.getElementById('dodger')
+
 ```
 
 Awesome. Now let's change its color:
